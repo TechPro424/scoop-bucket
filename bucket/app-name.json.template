@@ -1,14 +1,14 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "",
+    "version": "2.5.5",
     "description": "",
-    "homepage": "",
-    "license": "",
+    "homepage": "https://upscayl.org/",
+    "license": "AGPL-3.0",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "",
-            "hash": ""
+            "url": "https://github.com/upscayl/upscayl/releases/download/v2.5.5/upscayl-2.5.5-win.exe",
+            "hash": "94a786fdfee2cb3d49f654a27112d03afd2695ee21fdbaedf968c6ec6a238365"
         },
         "32bit": {
             "url": "",
@@ -30,23 +30,26 @@
     "uninstaller": {
         "script": ""
     },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
+    "bin": "Upscayl.exe",
+    "shortcuts": [
+        [
+            "Upscayl.exe",
+            "Upscayl"
+        ]
     ],
     "persist": [
         "",
         ""
     ],
     "checkver": {
+        "github": "https://github.com/upscayl/upscayl"
         "url": "",
         "regex": ""
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": ""
+                "url": "https://github.com/upscayl/upscayl/releases/download/$version/upscayl-$version-win.exe"
             },
             "32bit": {
                 "url": ""
