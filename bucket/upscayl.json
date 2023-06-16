@@ -4,7 +4,7 @@
     "description": "",
     "homepage": "https://upscayl.org/",
     "license": "AGPL-3.0",
-    "notes": "",
+    "notes": "If there are any issues with the app installing, report it to https://github.com/TechPro424/scoop-bucket/issues",
     "architecture": {
         "64bit": {
             "url": "https://github.com/upscayl/upscayl/releases/download/v2.5.5/upscayl-2.5.5-win.exe",
