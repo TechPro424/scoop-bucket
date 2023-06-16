@@ -42,7 +42,7 @@
         ""
     ],
     "checkver": {
-        "github": "https://github.com/upscayl/upscayl"
+        "github": "https://github.com/upscayl/upscayl",
         "url": "",
         "regex": ""
     },
