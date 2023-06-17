@@ -41,10 +41,6 @@
             "64bit": {
                 "url": "https://github.com/upscayl/upscayl/releases/download/$version/upscayl-$version-win.exe"
             }
-        },
-        "hash": {
-            "url": "",
-            "regex": ""
         }
     }
 }
