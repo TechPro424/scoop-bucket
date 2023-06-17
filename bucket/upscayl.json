@@ -34,9 +34,7 @@
         ""
     ],
     "checkver": {
-        "github": "https://github.com/upscayl/upscayl",
-        "url": "",
-        "regex": ""
+        "github": "https://github.com/upscayl/upscayl"
     },
     "autoupdate": {
         "architecture": {
