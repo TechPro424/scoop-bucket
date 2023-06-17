@@ -9,14 +9,6 @@
         "64bit": {
             "url": "https://github.com/upscayl/upscayl/releases/download/v2.5.5/upscayl-2.5.5-win.exe",
             "hash": "94a786fdfee2cb3d49f654a27112d03afd2695ee21fdbaedf968c6ec6a238365"
-        },
-        "32bit": {
-            "url": "",
-            "hash": ""
-        },
-        "arm64": {
-            "url": "",
-            "hash": ""
         }
     },
     "pre_install": "",
