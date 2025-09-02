@@ -1,5 +1,5 @@
 {
-    "version": "8.0",
+    "version": "9.4",
     "description": "This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to the project's source code.",
     "homepage": "https://github.com/Diegiwg/PrismLauncher-Cracked",
     "license": "GPL-3.0-only",
@@ -18,7 +18,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.4/PrismLauncher-Windows-MinGW-w64-Portable-9.4.zip",
-            "hash": "3C26888356B9DF41290F5A77E34239A2BD82432C76662BA0B3BA302007F6E402"
+            "hash": "3c26888356b9df41290f5a77e34239a2bd82432c76662ba0b3ba302007f6e402"
         }
     },
     "suggest": {
