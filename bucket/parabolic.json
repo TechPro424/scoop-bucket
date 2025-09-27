@@ -10,9 +10,7 @@
             "hash": "8d246dd7943af81b48abab0daf6da4b1046a6dccf30b434fa52d5776596d7b92"
         }
     },
-    "suggest": {},
-    "pre_install": [],
-    "post_install": [],
+    
     "bin": "org.nickvision.tubeconverter.winui.exe",
     "shortcuts": [
         [
@@ -20,7 +18,7 @@
             "Parabolic"
         ]
     ],
-    "persist": [],
+   
     "checkver": {
         "github": "https://github.com/NickvisionApps/Parabolic"
     },
